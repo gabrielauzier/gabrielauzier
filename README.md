@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Auzier</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [LOLDEV](https://loldev.tech/)
+- 🔭 I’m currently working at [LOLDEV](https://loldev.tech/)
 
 - 🌱 I’m currently learning **Java & Spring boot**
 
