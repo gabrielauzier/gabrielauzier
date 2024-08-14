@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working at [LOLDEV](https://loldev.tech/)
 
-- 🌱 I’m currently learning **Java & Spring boot**
-
-- 💬 Ask me about **React, Node, Next.js, Nest**
+- 💬 Ask me about **React, Node, Next.js, Nest, React Native** ...
 
 - 📫 How to reach me **gabrielvascoauzier@gmail.com**
 
